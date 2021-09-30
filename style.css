@@ -1,0 +1,53 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    font-family: 'Special Elite', cursive;
+    color: tomato;
+}
+
+ol {
+    list-style: none;
+}
+
+li img {
+    margin: 30px;
+    border-radius: 20px;
+    height: 70%;
+    width: 70%;
+}
+
+.test_images_and_results {
+    background-color: thistle;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.test_images_and_results h5 {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    width: 30%;
+}
+
+h5 b {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+span {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.mini_result {
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    background-color: lightgray;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-left: 30px;
+}
