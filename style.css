@@ -51,3 +51,12 @@ span {
     border-radius: 20px;
     margin-left: 30px;
 }
+
+.finalResult {
+    border: 1px solid red;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+    text-align: center;
+    background-color: plum;
+    font-size: 18px;
+}
